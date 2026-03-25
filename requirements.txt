@@ -9,3 +9,4 @@ pyodbc
 pytest
 jinja2
 pydantic
+requests
